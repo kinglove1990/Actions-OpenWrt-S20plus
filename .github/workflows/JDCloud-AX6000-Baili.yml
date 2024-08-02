@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 ###############手动修改##############
-name: JDCloud-AX6000-Baili-hanwckf
+name: S20Plus-AX6000-hanwckf
 
 on:
   repository_dispatch:
