@@ -10,7 +10,7 @@
 
 / {
 	model = "S20Plus";
-	compatible = "S20Plus", "mediatek,mt7986a";
+	compatible = "s20plus", "mediatek,mt7986a";
 
 	aliases {
 		led-boot = &red_led;
